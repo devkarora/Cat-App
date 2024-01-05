@@ -1,8 +1,23 @@
+# App Description
+
+This App shows a cat playing with its phone.
+
+# App Walkthrough
+
+https://github.com/devkarora/Cat-App/assets/41047076/51905e3f-947d-453b-a4e7-91c463062b33
+
+# Required Features
+- [x] App has a textfield 
+- [x] App has a Image field
+
+--Additional Details Ahead--
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
-https://github.com/devkarora/Cat-App/assets/41047076/51905e3f-947d-453b-a4e7-91c463062b33
+
 
 
 
